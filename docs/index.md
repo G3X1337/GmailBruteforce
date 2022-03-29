@@ -1,8 +1,5 @@
-# GmailBruteforce
 
 Powerful, Robust and Efficient tool for bruteforcing Gmail accounts written in python3.
-
-Source on [github](https://github.com/Sarthak214/GmailBruteforce)
 
 ### Installation
 
