@@ -3,7 +3,9 @@ Powerful, Robust and Efficient tool for bruteforcing Gmail accounts written in p
 
 ### Installation
 
-**Pre requisties:** `git` and `python3`
+**Pre requisties:** 
+- `git`
+- `python3`
 
 1. For windows
 
@@ -80,8 +82,8 @@ You've to specify the Gmail address and path to wordlist in the input section.
 
 ## TODO
 
-- [ ] Use proxies for better efficiency.
-- [ ] Commamd line version with flags.
+- Use proxies for better efficiency.
+- Commamd line version with flags.
 
 ### Support
 
