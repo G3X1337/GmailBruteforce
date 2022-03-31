@@ -4,8 +4,8 @@ Powerful, Robust and Efficient tool for bruteforcing Gmail accounts written in p
 ### Installation
 
 **Pre requisties:** 
-- `git`
-- `python3`
+- [git](https://git-scm.com/downloads)
+- [python3](https://www.python.org/downloads/)
 
 1. For windows
 
@@ -26,9 +26,9 @@ chmod +x main.py
 
 In order to bruteforce any gmail account with this tool the victim account must have **Less Secure Apps** turned on.
 
-For more details see [Why you need to turn ON less secure apps](https://support.google.com/accounts/answer/6010255?hl=en)
+For more details see [Why you need to turn ON less secure apps?](https://support.google.com/accounts/answer/6010255?hl=en)
 
-Read this [article by devnews](https://devanswers.co/allow-less-secure-apps-access-gmail-account/) to turn ON **Less secure apps.**
+Read this [article by devanswers](https://devanswers.co/allow-less-secure-apps-access-gmail-account/) to turn ON **Less secure apps.**
 
 ## Usage
 
@@ -85,6 +85,6 @@ You've to specify the Gmail address and path to wordlist in the input section.
 - Use proxies for better efficiency.
 - Commamd line version with flags.
 
-### Support
+## Support
 
 Having trouble with Tool? [Report an Issue](https://github.com/Sarthak2143/GmailBruteforce/issues).
