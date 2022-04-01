@@ -1,5 +1,5 @@
 
-Powerful, Robust and Efficient tool for bruteforcing Gmail accounts written in python3.
+Powerful, Robust and Efficient tool for bruteforcing Gmail accounts written in `python3`.
 
 ### Installation
 
