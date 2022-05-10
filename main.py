@@ -44,7 +44,7 @@ try:
         sys.exit()
 
 except KeyboardInterrupt:
-    print("\n{Fore.BLUE}[-] Exiting...{Style.RESET_ALL}")
+    print(f"\n{Fore.BLUE}[-] Exiting...{Style.RESET_ALL}")
     time.sleep(1)
     sys.exit()
 
