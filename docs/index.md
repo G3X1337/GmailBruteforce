@@ -1,5 +1,5 @@
 
-Powerful, Robust and Efficient tool for bruteforcing Gmail accounts written in `python3`.
+Most Powerful, Robust and Efficient tool on the Internet for bruteforcing Gmail accounts written in `python3`.
 
 ### Installation
 
@@ -87,4 +87,4 @@ You've to specify the Gmail address and path to wordlist in the input section.
 
 ## Support
 
-Having trouble with Tool? [Report an Issue](https://github.com/Sarthak2143/GmailBruteforce/issues).
+Having trouble with Tool? [Report an Issue](https://github.com/Sarthak2143/GmailBruteforce/issues/new).
