@@ -60,7 +60,7 @@ except KeyboardInterrupt:
 except:
     pass
 
-print('Starting bruteforcing...\n')
+print(f'{Fore.GREEN}Starting bruteforcing...{Style.RESET_ALL}\n')
 
 
 def bruteForce():

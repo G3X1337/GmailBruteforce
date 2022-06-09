@@ -1,6 +1,8 @@
 
 Most Powerful, Robust and Efficient tool on the Internet for bruteforcing Gmail accounts written in `python3`.
 
+**NOTE: This tool will not work from now as Google changed it's policies. [READ HERE](https://support.google.com/accounts/answer/6010255?hl=en-GB&dark=1&visit_id=637903517594769878-544557905&p=less-secure-apps&rd=1)**
+
 ### Installation
 
 **Pre requisties:** 
